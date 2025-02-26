@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yummypilot
 - 👀 I’m interested in ADAS
-- - 🌱 I’m currently learning autopilot.
+- - 🌱 I’m currently learning openpilot.
 - 💞️ I’m looking to collaborate on aotupilot funs.
 - 📫 How to reach me ? 'watch me'.
 - 😄 Pronouns: ...
